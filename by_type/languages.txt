@@ -1,0 +1,75 @@
+Array
+-R
+-Julia
+Assembly 
+-ARM
+-X86
+Authoring 
+Constraint programming
+Command line interface 
+-bash
+Compiled
+-C
+-Go
+Concurrent
+Curly-bracket
+Dataflow
+Data-oriented
+Decision table
+Declarative
+Embeddable
+    In source code
+        Serve side
+        Client side
+    In object code
+Educational
+Esoteric
+Extension
+Fourth-generation
+Functional
+    Pure
+    Impure
+Hardware description
+    HDL for analog circuit design
+    HDL for digital circuit design
+Imperative
+Interactive mode
+Interpreted
+Iterative
+Memory Management
+    Garbage collected
+    Manual Mem
+    Deterministice memory management
+    automatic reference counting
+List-based languages - LISPs
+Little
+Logic-based
+Machine
+Macro
+    Textual substitution
+    Application macro
+Metaprogramming
+Multiparadigm
+Numerical
+Non-English-based\
+Object-oriented class-based
+    Multi dispatch
+    Single dispatch
+Object-oriented prototype-based
+Off-side rule
+Procedural
+Query
+Reflective
+Rule-based
+Scripting
+Stack-based
+Synchronous
+Shading
+    Real-time
+    Offline
+Syntax-handling
+System
+Transformation
+Visual
+Wirth
+XML-based
